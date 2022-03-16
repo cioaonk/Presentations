@@ -15,3 +15,4 @@
 | [Bash Scripting & Dirty Pipe](Bash%20Scripting_Dirty%20Pipe%20CSA%20NetSec.pdf)  | Winter 2022  | BYU CSA Network Security Emphasis Meeting |
 | [Principles & Pokemon](Principles%20and%20Pokémon.pdf)  | Winter 2022  | BYU CSA Student Conference |
 | [Checking In With Cyberia](Checking%20in%20with%20Cyberia.pdf)  | Winter 2022  | BYU CSA Student Conference |
+| [LIST Training on Passwords & Key Management](LSIT%20Training%203_16.pdf)  | Winter 2022  | BYU LSIT Work Training |
