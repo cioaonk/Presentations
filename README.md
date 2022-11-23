@@ -16,3 +16,5 @@
 | [Principles & Pokemon](Principles%20and%20Pokémon.pdf)  | Winter 2022  | BYU CSA Student Conference |
 | [Checking In With Cyberia](Checking%20in%20with%20Cyberia.pdf)  | Winter 2022  | BYU CSA Student Conference |
 | [LIST Training on Passwords & Key Management](LSIT%20Training%203_16.pdf)  | Winter 2022  | BYU LSIT Work Training |
+| [Samba & SMB](SAMBA%20%26%20SMB.pptx)  | Fall 2022  | CPTC Preparation |
+
